@@ -54,3 +54,7 @@ To start using the Pizza Sales Dashboard:
 
 The dataset used for this dashboard is given as *pizza_sales.csv*. The dataset was processed and transformed for analysis within Power BI.
 
+![image](https://github.com/vishalrathourr/Pizza-Sales-Dashboard-PowerBI/assets/126953378/c4c3aa77-9e75-4d66-bade-1bfad47e9ed2)
+
+![image](https://github.com/vishalrathourr/Pizza-Sales-Dashboard-PowerBI/assets/126953378/99dad89e-c96f-407e-b1d1-b9e7ff2d7638)
+
